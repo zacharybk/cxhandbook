@@ -3,7 +3,7 @@ title: "Would you pay $0.38 to ripen your avocado?"
 date: 2020-01-06T14:22:49-05:00
 author: "Zach Bouzan-Kaloustian"
 type: ""
-draft: false
+draft: true
 ---
 # Would you pay $0.38 to ripen your avocado?
 
