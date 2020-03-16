@@ -1,7 +1,7 @@
 baseURL = "/"
 footnoteReturnLinkContents = "↩"
 languageCode = "en-us"
-title = "Zach Bouzan Kaloustian"
+title = "CX HANDBOOK"
 
 [params]
   AuthorName = "Zach Bouzan-Kaloustian"
