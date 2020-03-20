@@ -1,5 +1,5 @@
 ---
-title: "Understanding Customer Effort Score"
+title: "Understanding Customer Effort Score (CES)"
 date: "2020-03-16T00:00:49-05:00"
 author: "Zach Bouzan-Kaloustian"
 type: ""
@@ -10,7 +10,7 @@ keywords: ""
 tags: [Customer Effort Score,CSAT,CES]
 ---
 
-## CES Overview
+## Post Summary: A CES Overview
 This is an anonymized interview that I had with the Head of a Global Customer Support team. He was labeled as an expert in Customer Effort Score (CES), so I reached out to him in Support Driven, a fast-growing Slack group where Support Professionals can connect with one another. I wanted to better understand CES, how to implement it, and generally find another connection in the support world.
 
 Throughout our discussion I received more than I was expecting. He blew me away with how thoroughly he explained the concepts along with how thoughtfully they researched and implemented CES. This post is my way to give back to the Support Driven Community.
