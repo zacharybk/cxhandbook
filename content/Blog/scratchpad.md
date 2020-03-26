@@ -69,3 +69,20 @@ Reviews - team size, function, pros, cons
 - Best Practices for Service Cloud https://medium.com/p/7422501f1ec1/edit
 - A friend asked https://medium.com/p/a727539ff870/edit
 - Other stories https://medium.com/me/stories/drafts 
+
+If you're lucky enough to work with or encounter a company with an excellent experience, take the time to tell them you appreciate it. The team behind your experience works really hard to deliver for you and other customers. 
+
+I'll tell you a secret: if a company has a bad experience it's entirely because of the CEO/Founder or C-Level in charge of the function. Do not blame the team trying to execute. 
+
+How could this be? The CEO probably isn't the one you're interacting with, so how can you blame them? A few reasons: 
+
+- It's all about focus. In many companies you can tell what's important by where the budget is allocated - voting with dollars, not words. No or a menial allocation for the service teams likely means the experience will become subpar. 
+- If there is money allocated and it's still bad? Same answer; it's the CEO's fault because they haven't taken the necessary steps to make it better. 
+
+If the service is amazing, you should hear from the CEO how excellent the team is that's providing it to you. 
+
+A quick story. I recently decided to frame a hand-written note of encouragement that I received in high school instead of carrying it in my backpack. So, I turned to our go-to framer, Framebridge. Admittedly, it has been >1 year since we had used them, but I was expecting the same level of service that makes me a repeat customer. 
+
+The first frame job was slapdash and the custom matting was very inconsistent. Fair enough, I talked with their team, told them the issues and got a return label. They do have a policy of "love it or they'll reframe for free". 
+
+On the redo I encountered many of the same issues. Here's the difference between a company that cares, and one that doesn't. When I cc'd the Framebridge CEO on the email she took ownership of the manufacturing issue and assigned a team lead to oversee my issue. It's expensive to operate this way with a guarantee, multiple shipments, and CEO-Level attention. As Framebridge seems to understand, it's more expensive to lose a loyal customer than it is to make it right. Here's hoping that they permanently fix their issues! 
