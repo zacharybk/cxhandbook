@@ -86,3 +86,9 @@ A quick story. I recently decided to frame a hand-written note of encouragement 
 The first frame job was slapdash and the custom matting was very inconsistent. Fair enough, I talked with their team, told them the issues and got a return label. They do have a policy of "love it or they'll reframe for free". 
 
 On the redo I encountered many of the same issues. Here's the difference between a company that cares, and one that doesn't. When I cc'd the Framebridge CEO on the email she took ownership of the manufacturing issue and assigned a team lead to oversee my issue. It's expensive to operate this way with a guarantee, multiple shipments, and CEO-Level attention. As Framebridge seems to understand, it's more expensive to lose a loyal customer than it is to make it right. Here's hoping that they permanently fix their issues! 
+
+# Layoffs
+Do they 1:1
+Do them when someone doesn't meet expectations
+Have a plan in place that you'll get backfills
+DO NOT do it like Bird did - https://twitter.com/mjnblack/status/1243641637420453889 
