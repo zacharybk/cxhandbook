@@ -4,7 +4,7 @@ date: "2020-03-16T00:00:49-05:00"
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
-description: ""
+description: "An overview of Customer Effort Score (CES) as told through an interview with a Head of Global Support"
 draft: false
 keywords: ""
 tags: [Customer Effort Score,CSAT,CES]

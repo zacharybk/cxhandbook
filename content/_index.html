@@ -3,22 +3,24 @@
 
 <html lang="en" dir="ltr">
   {{ partial "head.html" . }}
-  
   <body>
       {{ partial "nav.html" . }}
 
     <div class="container">
-      <main id="main">
+      <div class="row">
 
-        <div class="row">
+      <!-- <main id="main"> -->
 
-          <h2>CX HANDBOOK</h2>
+        <div class="col-content-l"></div>
+        <div class="col-4"><h2>CX HANDBOOK</h2>
           <p>The CX Handbook is a centralized source of best practices and information for how to scale your company’s customer-facing teams. The hard-earned lessons shared here come from CX experts in the fields of Customer Support and Customer Success, and are being shared to help you more easily navigate your unique challenges.</p>
-          <img src="https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/handshake.jpg"  id="handshake"  alt="2 neon sign of a handshake 2">
+          </div>
+<div class=" col-4 justify-content-center">
+        <img class="img-thumbnail" src="https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/handshake.jpg"  id="handshake"  alt="2 neon sign of a handshake 2">
+</div>
+       <!-- </main> -->
 
-        </div>
-       </main>
-
+      </div>
     </div>
         {{ partial "script.html" . }}
 
