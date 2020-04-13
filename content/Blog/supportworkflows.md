@@ -4,7 +4,7 @@ date: 2020-03-20T09:35:24-04:00
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
-description: ""
+description: "In this post you will learn a method for how Customer Support Reps work, and a framework called Known-Knowns Framework which will help create workflows for your organization"
 draft: false
 keywords: ""
 tags: [workflow, Known-Knowns, Framework]

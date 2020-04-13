@@ -3,22 +3,20 @@
 <h1>{{ .Title }}</h1>
 {{ range .Pages.ByPublishDate.Reverse }}
 <p>
-  <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }} - {{ partial "date.html" . }}</a>
-  <br>
-  Author - {{ .Params.Author }} - Reading Time: {{ .ReadingTime }} minutes 
+  <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }} - {{ partial "date.html" . }}</a> 
   <br>
   {{ partial "date-and-tags.html" . }}
   <br>
   Author - {{ .Params.Author }} 
   <br>
-  Summary: {{ .Description }}
+  Summary: {{ .Description }} - Reading Time is {{ .ReadingTime }} minute(s)
   <br>
 
   <!-- {{ .Summary }} -->
   <br>
 
   <br>
-this is the list template
+
 </p>
 {{ end }}
 
