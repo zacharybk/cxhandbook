@@ -1,12 +1,48 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-{{ partial "date-and-tags.html" . }}
-<br><br>
-<aside>
-    {{ .TableOfContents }}
-</aside>
+<div class="container">
+    
 
-{{ .Content }}
+    <div class="row">
+
+        <nav class="bd-toc2 col-content-l border-right TOC d-none d-xl-block bd-toc" aria-label="Secondary navigation">
+
+            <div class="sticky">
+                <h5>Handbook</h5>
+                {{ .TableOfContents }}
+            </div> 
+        </nav> 
+        
+        <div class=" col-content justify-content-center">
+            <div class="row  justify-content-center">
+                <div class="col-content">
+                    <h1 class="">{{ .Title }}</h1>
+                    {{ partial "date-and-tags.html" . }}
+                    <br>
+                    <br>
+                </div>
+            </div>
+            {{ .Content }}
+        </div>
+        
+        <nav class="col-content-r  border-left toc-entry  d-none d-xl-block " aria-label="Secondary navigation">
+        <div class="sticky">
+            <h5>Post Content</h5>
+            {{ .TableOfContents }}
+            
+        </div> 
+        </nav>  
+
+    </div>
+    <br>
+    <br>
+    <div class="conatiner">
+        <div class="row">
+            <iframe src="https://customerexperience.substack.com/embed" width="480" height="200" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">
+            </iframe>
+        </div>
+    </div>
+
+</div>
 
 {{ end }}
