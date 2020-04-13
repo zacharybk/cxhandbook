@@ -37,11 +37,11 @@ title = "CX HANDBOOK"
       pre = "cast"
       url = "/blog"
       weight= 3
-  #[[menu.main]]
-  #  name = "Tags"
-  #  pre = "tag"
-  #  url = "/tags/"
-  #  weight = 4
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 4
 
 [AuthorName]
   twitter = "https://twitter.com/zacharybk"

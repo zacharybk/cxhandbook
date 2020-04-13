@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   {{ partial "head.html" . }}
+   
   <body>
       {{ partial "nav.html" . }}
-    <div class="container">
+    <div class="container-fluid"> <!-- changed from container-fluid to block -->
+
       <main id="main">
-       {{ block "main" . }}{{ end }}
+        
+       {{ block "main" . }}
+       
+       {{ end }}
       </main>
     </div>
         {{ partial "script.html" . }}

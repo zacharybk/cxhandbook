@@ -5,9 +5,22 @@
 <p>
   <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }} - {{ partial "date.html" . }}</a>
   <br>
+  Author - {{ .Params.Author }} - Reading Time: {{ .ReadingTime }} minutes 
+  <br>
   {{ partial "date-and-tags.html" . }}
+  <br>
+  Author - {{ .Params.Author }} 
+  <br>
+  Summary: {{ .Description }}
+  <br>
 
+  <!-- {{ .Summary }} -->
+  <br>
+
+  <br>
+this is the list template
 </p>
 {{ end }}
 
 {{ end }}
+ 

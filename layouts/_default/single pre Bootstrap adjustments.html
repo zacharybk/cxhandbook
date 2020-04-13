@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+
+
+<div class="container-fluid">
+
+<div class="row"></div>
+    <div class="col-8">
+        <h1>{{ .Title }}</h1>
+        {{ partial "date-and-tags.html" . }}
+    </div>
+    <div class="container-fluid">
+        <hr>
+    </div>
+
+
+</div>
+<aside>
+    
+    <div class="container-fluid">
+
+        
+     
+        <div class="col-8">
+            {{ .Content }}
+            </div>
+
+            <div class="col-4">
+                {{ .TableOfContents }}
+            </div> 
+    </div>
+</aside>
+</div>
+
+</div>
+</div>
+
+{{ end }}
