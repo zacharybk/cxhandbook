@@ -92,3 +92,6 @@ Do they 1:1
 Do them when someone doesn't meet expectations
 Have a plan in place that you'll get backfills
 DO NOT do it like Bird did - https://twitter.com/mjnblack/status/1243641637420453889 
+
+# Hiring your (first) CX Leader 
+So, you're ready to hire, but it's not a function you've lead before, and you're stuck. Here's a guide
