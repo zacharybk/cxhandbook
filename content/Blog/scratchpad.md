@@ -95,3 +95,28 @@ DO NOT do it like Bird did - https://twitter.com/mjnblack/status/124364163742045
 
 # Hiring your (first) CX Leader 
 So, you're ready to hire, but it's not a function you've lead before, and you're stuck. Here's a guide
+
+# Data analysis 
+How do you do forecasting, staffing, 
+
+# Metrics
+How to build your first dashboard
+A list of CX metrics and how to calculate them
+What does each metric produce for you in isolation, a- TTR, Quality, Output, tickets solves
+
+# Creating a Visual Workflow
+
+# Elements of a playbook (all of these can be a blog post)
+Explain what it is, the components, etc. 
+Canned responses - they could stand alone
+Visual Workflow
+Rules & Vocabularly 
+Links to other processes 
+Links to data reporting 
+
+- Publish internally in a wiki so that everyone in the company can view and/or edit them. 
+- Make the policies publicly available, searchable on your site, appear during the ticket creation for deflection, and indexed by Google
+
+
+# No silver bullets 
+
