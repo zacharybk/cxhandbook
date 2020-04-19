@@ -87,6 +87,20 @@ The first frame job was slapdash and the custom matting was very inconsistent. F
 
 On the redo I encountered many of the same issues. Here's the difference between a company that cares, and one that doesn't. When I cc'd the Framebridge CEO on the email she took ownership of the manufacturing issue and assigned a team lead to oversee my issue. It's expensive to operate this way with a guarantee, multiple shipments, and CEO-Level attention. As Framebridge seems to understand, it's more expensive to lose a loyal customer than it is to make it right. Here's hoping that they permanently fix their issues! 
 
+# CX
+Customer Experience, or CX, is how all of your customer's interactions come together to form the tangible and intangible thoughts or feelings about your company. When we talk here about the CX, it's inclusive of your Product interactions/performance, Customer Interactions, Support, Success, and self-help. For the sake of this site, we will focus the advice towards "customer-facing" teams such as Customer Support and Customer Success, and generally brand these as CX teams.  
+
+Success Vs Support
+To differentiate between Success and Support you can traditionally draw a hard-line and say that Success is Proactive and Support is Reactive. 
+
+Here are examples of Reactive/Proactive
+Success schedules QBRs
+Success reaches out before a customer does
+Support responds to emails/chats/phone calls
+Support acts as a conduit to Engineering for customer-reported bugs
+
+I am proposing that the days of these hard-lines are over, and that to win, a company must respond urgently to meet their customer needs. You must adapt quickly, or the next competitor will eat your lunch. In short, the metodologies that we will talk about on this site will help to transform all aspects of your CX into a proactive offense that increases customer loyalty, reduces churn, and improves the interactions your customers have with your product. 
+
 # Layoffs
 Do they 1:1
 Do them when someone doesn't meet expectations
