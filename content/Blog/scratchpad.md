@@ -121,10 +121,15 @@ What does each metric produce for you in isolation, a- TTR, Quality, Output, tic
 # Creating a Visual Workflow
 
 # Elements of a playbook (all of these can be a blog post)
-Explain what it is, the components, etc. 
-Canned responses - they could stand alone
+
+
+
+Explain what it is, the components, etc. Rules & Vocabularly 
+Mapping Customer Interactions
+Uncover Scenarios 
+Digging Deeper
 Visual Workflow
-Rules & Vocabularly 
+Canned responses - they could stand alone
 Links to other processes 
 Links to data reporting 
 
@@ -133,4 +138,11 @@ Links to data reporting
 
 
 # No silver bullets 
+
+# Team building and structure 
+From Data Grouping 
+When you're small, everyone will work on everything. When your team is large (20+ people), specialization probably makes the most sense. How to create specialization within your team
+
+# How to present ideas
+Earn buy-in from a cross-functional group
 
