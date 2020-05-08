@@ -146,3 +146,26 @@ When you're small, everyone will work on everything. When your team is large (20
 # How to present ideas
 Earn buy-in from a cross-functional group
 
+
+# Who Should our First CX hire be? 
+I hear it time and time again from founders and execs: "I'm making my first CX hire and I'm not sure who to hire. Should they have 20 years of ex
+
+Maybe they ask the same question for every function that they're running for the first time like Product or Sales. Maybe not. I'm here to say that it doesn't need to be such a hard question to answer. In fact, it requires planning and forethought. 
+
+Some questions to help you plan: 
+- What's your current state? Fab vs DO
+
+
+You should have some idea of either how to lead support metrics or put someone in place who can figure it out. You can't leave this to chance for too long. 
+
+# Who Should you Hire: Interview Series
+Ask 10-15 people, the following type of questions:
+Bio: Roles, founder/non-founnder, worked in CX: Support/Success
+- When I say CX - what do you think of? 
+- What was your experience hiring your first CX Leader? 
+- What did you get right or wrong
+- If they progressed their career in CX: What was important about growing your career in CX? Why do you think you had the success that you did
+3 Scenarios, 1 question: Who should you hire to lead this function? What would you think about and plan for? Talk to your expeirence at each of these stages, what you got right, what you got wrong, and what you needed to work through. 
+- Pre-launch startup, maybe some customers, but generally not much is happening. You're probably on v1 of your product: 
+- Series A-B: You have product market fit, and the company is about to or has already experienced explosive growth. Example company: DigitalOcean from 2014. ~$15m in ARR, 35 people in the company, 100k+ customers
+- Growth Stage: Your product is highly desired, customers are signing up organically, sales is humming along. You have 100-250 people in the company, sights on $1b+ ARR. 
