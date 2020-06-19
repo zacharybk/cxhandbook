@@ -78,7 +78,7 @@ title = "CX HANDBOOK"
 ## Default JPEG quality setting. Default is 75.
 # quality = 75
 
-##  pluralizeListTitles = false
+pluralizelisttitles = false
 
 ##  googleAnalytics = ""
 
