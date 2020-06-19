@@ -25,12 +25,12 @@ title = "CX HANDBOOK"
       pre = "home"  # See https://feathericons.com/ The value of pre is the icon name
       url = "/"                                 #       - Target URL
       weight= 1                               #       - Sorting order
- [[menu.main]]
-     identifier = "about"
-      name = "About"
-      pre = "clipboard"
-      url = "/about"
-      weight = 2
+# [[menu.main]]
+#     identifier = "about"
+#      name = "About"
+#      pre = "clipboard"
+#      url = "/about"
+#      weight = 2
 # [[menu.main]]
 #    identifier = "blog"
 #      name = "Blog"
