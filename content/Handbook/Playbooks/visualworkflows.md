@@ -29,7 +29,7 @@ In this case, the visualization is more high level as a general overview of how 
 
 Another form of a visualization can be very detailed with step-by-step instructions for each action. It will typically show both the internal and customer processes to solve the problem. Workflows like this tend to be much more cross-functional, exposing more of the business operations. This is where it becomes fun, because it's really about the Customer's Experience with your product, and not just about how the CX team responds. 
 
-![iOS Appointment Booking Detailed Workflow](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/Bookingdetailedworkflow.png)
+![iOS Appointment Booking Detailed Workflow](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/Bookingdetailedworkflow.png) 
 
 The details in this type of diagram can become overwhelming, and it's a best practice to link to other diagrams that show you how to process other steps. 
 

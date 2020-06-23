@@ -24,7 +24,7 @@ For most of you, the way that you should uncover the information is to download 
 
 Throughout this post, I'll link to this [Google Spredsheet](https://docs.google.com/spreadsheets/d/1OFddLkhSBkhhm7fo0I59R24JTbIj9pDeG6ykfKqyrtc/edit#gid=1017733215) with examples of mapping your interactions. Here's an example of three tickets that I have manually tagged for an E-Commerce Company: Late Order, Note Late, and Order Inquiry. 
 
-![Ticket Data Dump](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/Ticketdatadump.png)
+![Ticket Data Dump](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/Ticketdatadump.png)
 To get a full picture of your data, I would recommend 1-3 months of data taken from different times throughout the year. This will provide you with the biggest sample and account for different cycles throughout the year/month. Another way to think about it is that you need a "good enough" sample size, which could be thousands of data points (2,000-3,000!). Do not take shortcuts here, you must dig deep to create the best understanding of your customer interactions so that you can improve your CX. 
 
 If you're lucky enough to already have a great baseline understanding of your tickets, then you might be ready to jump ahead to [Step 2: Data Grouping](/handbook/playbooks/datacategorization). Before you jump ahead, finish reading what's here to make that assessment. 
