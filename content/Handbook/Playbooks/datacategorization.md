@@ -24,7 +24,7 @@ Now that you've downloaded and analyzed thousands of tickets in a calibrated way
 
   
 
-![Ticket Tag Percentage](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/tickettagpercentage.png)
+![Ticket Tag Percentage](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/tickettagpercentage.png)
 
 ## Methods to Group Your Data
 
@@ -54,7 +54,7 @@ Below is an example of doing a second-level analysis of interactions tagged as O
 
   
 
-![Ticket Tag Percentage](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/orderinquirytagscore.png)
+![Ticket Tag Percentage](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/orderinquirytagscore.png)
 
 It's important to keep in mind that the tags here DO NOT necessarily represent your ideal workflow. They only represent what happens today. For example, when I was at Fab.com, in the early days we did a lot of dropshipping so we realized that telling a customer they could expect their item to ship in 2 days wasn't sufficient. We had to develop our ideal workflow which we cover in the next section called [Creating Visual Workflows](/handbook/playbooks/visualworkflows).
 
