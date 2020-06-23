@@ -29,7 +29,7 @@ I am making the proposal to use a framework I'll call the **Known-Knowns Framewo
 
 ## Known-Knowns Framework:
 
-![Known-Known Framework](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/KnownKnownFramework.jpg)
+![Known-Known Framework](https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/KnownKnownFramework.jpg)
 
 ## Using the framework
 Since the key is to move towards Known-Knows you can easily measure your progress. You do this by identifying what percentage of your work falls into each category, documenting the root-causes for the new questions you're receiving, and making sure the knowledge is shared. When responding to customers, here's how to assess your progress against the framework:
