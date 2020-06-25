@@ -80,7 +80,7 @@ title = "CX HANDBOOK"
 
 pluralizelisttitles = false
 
-##  googleAnalytics = ""
+googleAnalytics = "UA-170814043-1"
 
 ## Discuss Forum URL
 # forum = "https://discourse.gohugo.io/"
