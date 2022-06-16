@@ -24,11 +24,8 @@ Admittedly, I didn’t understand it at first. What was this elusive PLG, and wh
 
   
 
-## Building teams at a PLG Company
+## My Expertise: Building teams at a PLG Company
 
-This lead me to realize that my expertise is in building post-sales* teams at PLG companies, across Operations, Success, Support, and Trust & Safety. To me, the post-sales work can be thought about in 3 ways: 
-
-## My Expertise
 This lead me to realize that my expertise is in building post-sales* teams at PLG companies, across Operations, Success, Support, and Trust & Safety. To me, the post-sales work can be thought about in 3 ways: 
 
 1. **Proactive**: Generating an outbound contact for the purpose of selling more, retention, or to further a relationship (Customer Success).
