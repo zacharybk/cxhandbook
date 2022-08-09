@@ -4,7 +4,7 @@ date: 2020-04-20
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
-description: "Create a visualization of your cusotmer interactions and find places for improvement"
+description: "Create a visualization of your customer interactions and find places for improvement"
 draft: false
 keywords: ""
 tags: [Playbook, Data Analysis, Interactions]
