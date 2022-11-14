@@ -13,7 +13,7 @@ menu:
         playbooks:
             name: "Product Launches"
 ---
-> Process clears the path to more creativity
+>Process clears the path to more creativity
 
 # Intro
 
@@ -63,7 +63,7 @@ If you can envision writing a press release, or receiving questions about it fro
 
 # Project Scope
 
-> "By failing to prepare, you are preparing to fail"
+>"By failing to prepare, you are preparing to fail"
 
 -Benjamin Franklin
 
@@ -157,7 +157,7 @@ You may have read or heard of the book called *The Checklist Manifesto* by Atul 
 
 
 
-> “a distinction between errors of ignorance (mistakes we make because we don’t know enough), and errors of ineptitude (mistakes we made because we don’t make proper use of what we know).” [^1]
+>“a distinction between errors of ignorance (mistakes we make because we don’t know enough), and errors of ineptitude (mistakes we made because we don’t make proper use of what we know).” [^1]
 
 
 
