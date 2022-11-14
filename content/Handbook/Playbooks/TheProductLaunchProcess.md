@@ -11,7 +11,7 @@ tags: [Playbook, Data Analysis, Interactions]
 menu:
     handbook:
         playbooks:
-            name: "Customer"
+            name: "Product Launches"
 ---
 > Process clears the path to more creativity
 
