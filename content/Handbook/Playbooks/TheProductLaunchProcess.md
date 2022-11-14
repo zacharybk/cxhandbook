@@ -1,3 +1,18 @@
+---
+title: "The Product Launch Process"
+date: 2020-11-14
+author: "Zach Bouzan-Kaloustian"
+type: ""
+layout: ""
+description: "Best Practices in Product Launches"
+draft: false
+keywords: ""
+tags: [Playbook, Data Analysis, Interactions]
+menu:
+    handbook:
+        playbooks:
+            name: "Customer"
+---
 > Process clears the path to more creativity
 
 # Intro
