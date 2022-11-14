@@ -13,9 +13,9 @@ menu:
         playbooks:
             name: "Product Launches"
 ---
->Process clears the path to more creativity
+>"Process clears the path to more creativity"
 
-# Intro
+## Intro
 
 If you’re lucky, you’ll get to launch dozens or hundreds of new products and features during your career, and with the right planning, each launch will go very smoothly.
 
@@ -25,7 +25,7 @@ In this post, I’ll touch on how to successfully launch a new product. This wil
 
 
 
-# What is a Product Launch?
+## What is a Product Launch?
 
 
 
@@ -60,7 +60,7 @@ If you can envision writing a press release, or receiving questions about it fro
 
 
 
-# Project Scope
+## Project Scope
 
 >"By failing to prepare, you are preparing to fail"
 
@@ -107,12 +107,12 @@ Before a go-live, each team involved in the launch process should sign off that 
 
 
 
-## Mini Workshop
+### Mini Workshop
 If you’re facing an upcoming product change, I would recommend taking 10-20 minutes right now and writing down your list of questions that you must answer to be ready for launch. You can do this to plan ahead for the next launch, or as a retrospective from a past launch you wish had gone more smoothly. This preparation will help you drive change.
 
 
 
-# Introducing change at your company
+## Introducing change at your company
 
 It can be enormously complex to implement cross-functional processes like these are your company. Typically, change is welcomed as a result of many people routinely feeling a lot of pain, so unfortunately, change might be hard to come by. Here are ideas on how to gain buy-in for these processes:
 
@@ -137,7 +137,7 @@ It can be enormously complex to implement cross-functional processes like these 
 
 
 
-# Start With Why
+## Start With Why
 
 All good change management and leadership start with “why” you are doing something and then talks about “what/how” you’ll execute. At times when we might feel that our autonomy is under pressure from all angles, it is vital to explain the purpose of adding something new, which generates buy-in, and ownership of the processes, yielding much better results. I’ve found that if you’re able to articulate the pain through the lens of the customer, peers such as product managers frequently respond quickly and positively to change.
 
@@ -151,7 +151,7 @@ The scope of the change will dictate how much time is required to communicate th
 
 ​​
 
-# Project Management
+## Project Management
 
 You may have read or heard of the book called *The Checklist Manifesto* by Atul Gawande. As you can guess from the title, Dr. Gawande is a huge proponent of using checklists to save lives and improve outcomes. He writes about:
 
@@ -232,14 +232,14 @@ Here’s a visualization of how to cascade tasks from the project level to depar
 
 
 
-# Staffing
+## Staffing
 When you’re launching something brand new, it is imperative to generate staffing estimates. This gets to the heart of how you’ll support and engage with customers. If you get it wrong, you’ll either be underwater and scrambling to hire more or overpaying for too large of a team. Make sure to communicate how a launch impacts your staffing and budget. I’m sorry to say that if you get it right, you won’t be rewarded, so my recommendation is to make this part of your personal accomplishments for the year and brag about it to your boss. To do that, show your work and process.
 
 
 
 A word of caution based on my experiences. If your company is taking a big bet on new technology, as DigitalOcean did with our managed Kubernetes offering, the way to earn board-level approval is to attach a big revenue target. Naturally, it’s easy to get caught up by that target and assume that it will happen from day one. In most cases, this is not the case, and you’ll need to spend time with your peers to get the estimates correct. Alternatively, if you’re lucky enough to work at a rapidly scaling company, like when Robinhood launched crypto trading, then you might need to 5x the estimates. As always, YMMV.
 
-# Training
+## Training
 
 When you’re doing something new, the only way to get good at it is to practice. How much development time you spend on training is usually related to the scope of the change. A minor update might deserve a small update to onboarding and a quick update in a weekly meeting. A major change will require major updates and lots of practice because it’s sometimes harder to unlearn something than to learn it in the first place.
 
@@ -250,7 +250,7 @@ If your team is multi-channel, take the time to practice phone calls, and testin
 
 
 
-# Quality
+## Quality
 
 Part of the launch will be seeing how your team handles customer questions/objections. It’s important to take a proactive approach to assess quality during the launch, update training in real time, and make sure you’re getting it right. This is especially important because it’s impossible to predict every question your customers will ask.
 
@@ -264,7 +264,7 @@ In the past, I’ve personally read over hundreds of emails and chats during a p
 
 
 
-# Reporting
+## Reporting
 
 Everyone will want to know how the launch is going, so prepare to answer that question. Set expectations ahead of time about when and how you’ll report out. If your reporting system isn’t real-time, then plan on ways to get updates manually. This can also be accomplished through QA and extracting anecdotes from conversations. If you have automated reporting, plan ahead and create a product launch dashboard.
 
@@ -274,7 +274,7 @@ Share recaps of the data, representative quotes from customers, call recordings,
 
 
 
-# Post Mortem
+## Post Mortem
 
 
 
