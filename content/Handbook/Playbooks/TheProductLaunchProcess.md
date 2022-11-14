@@ -48,7 +48,6 @@ Common Characteristics include:
 	-   UI/UX changes
     -   Pricing changes
 
-
 -   Internally, education is needed to understand explain or understand the change
     -   Tool changes or updates
     -   Starting or stopping a process
@@ -108,7 +107,8 @@ Before a go-live, each team involved in the launch process should sign off that 
 
 
 
-Workshop: If you’re facing an upcoming product change, I would recommend taking 10-20 minutes right now and writing down your list of questions that you must answer to be ready for launch. You can do this to plan ahead for the next launch, or as a retrospective from a past launch you wish had gone more smoothly. This preparation will help you drive change.
+## Mini Workshop
+If you’re facing an upcoming product change, I would recommend taking 10-20 minutes right now and writing down your list of questions that you must answer to be ready for launch. You can do this to plan ahead for the next launch, or as a retrospective from a past launch you wish had gone more smoothly. This preparation will help you drive change.
 
 
 
@@ -209,11 +209,11 @@ Just like with OKRs, the progress and blockers should be public and visible to a
 
 ![](https://lh6.googleusercontent.com/MdWpOMCSZZvPc6rXLh3hKbpGP_XMj_nzYeoVNsg-QRRouJs50jMhhNbYuv0_PtEdp80hl3mjv4tbEhVigc6EU_iZ-BUuIw68LarMKiOirb_QI0Db0myrGHzJSLz4DbKA4HeOQbGTkYuae3bdyzQnPWpG0WlNxtZTpIl6A54-jSgrnPDFexhaz6kvGyW4-g)
 
-[http://lathamconsulting.com/wp-content/uploads/2015/04/Hope-Is-Not-A-Strategy.jpg](http://lathamconsulting.com/wp-content/uploads/2015/04/Hope-Is-Not-A-Strategy.jpg)
+Image Source: [http://lathamconsulting.com/wp-content/uploads/2015/04/Hope-Is-Not-A-Strategy.jpg](http://lathamconsulting.com/wp-content/uploads/2015/04/Hope-Is-Not-A-Strategy.jpg)
 
 
 
-1 [http://atulgawande.com/book/the-checklist-manifesto/](http://atulgawande.com/book/the-checklist-manifesto/)
+
 
 
 
@@ -227,7 +227,6 @@ The most challenging part of project management in a complicated launch is makin
 
 Here’s a visualization of how to cascade tasks from the project level to departments, and finally to individuals.
 
-[https://docs.google.com/presentation/d/1mQcCXYcReCCRDbS6NIsflYhU15G1yk6rLcXdcw_3NMk/edit#slide=id.g11e0f11b8b4_0_3](https://docs.google.com/presentation/d/1mQcCXYcReCCRDbS6NIsflYhU15G1yk6rLcXdcw_3NMk/edit#slide=id.g11e0f11b8b4_0_3) image
 
 ![](https://lh5.googleusercontent.com/vq_V7CNVVWiosMfX3MV2pHo6TNsOrWoajGg7_bBASLOdu0ran2eslB1PMcg9snxxU3iv_l-nn2UqGsLjf-lpWM-GCPHfgnWbTval_IiJiNmSZgtzSWwkSTlNWn0wZ0JcW7zsFCePB4q1Wk0bpCwJPSEN3BmOUmC35b5FPgprr2m2sDVt9NL-MkSa2ayarg)
 
