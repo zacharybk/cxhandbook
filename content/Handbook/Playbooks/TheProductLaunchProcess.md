@@ -7,7 +7,7 @@ layout: ""
 description: "Best Practices in Product Launches"
 draft: false
 keywords: ""
-tags: [Playbook, Data Analysis, Interactions]
+tags: [Launches, Product Launches, Process]
 menu:
     handbook:
         playbooks:
