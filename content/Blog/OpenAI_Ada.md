@@ -16,7 +16,7 @@ draft: false
 Mike Murchison, Co-Founder & CEO at Ada
 Yaniv Murchison, Head of Support Engineering & Community at OpenAI
 Yochai Konig, VP, Machine Learning & AI at Ada
-![Image of speakers]([https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/Ticketdatadump.png](https://github.com/zacharybk/cxhandbook/blob/master/static/images/adaceo.png?raw=true))
+![Image of speakers](https://github.com/zacharybk/cxhandbook/blob/master/static/images/adaceo.png?raw=true)
 
 ## Zach’s key takeaways: 
 Here are my notes and thoughts form the discussion. You can watch and listen to the recording [here](https://get.ada.cx/chatgpt-webinar?hsCtaTracking=customerexperiencehandbook.com): 
