@@ -16,14 +16,13 @@ draft: false
 Mike Murchison, Co-Founder & CEO at Ada
 Yaniv Murchison, Head of Support Engineering & Community at OpenAI
 Yochai Konig, VP, Machine Learning & AI at Ada
-
-https://github.com/zacharybk/cxhandbook/blob/master/static/images/adaceo.png?raw=true
+![Image of speakers]([https://raw.githubusercontent.com/zacharybk/cxhandbook/master/static/images/Ticketdatadump.png](https://github.com/zacharybk/cxhandbook/blob/master/static/images/adaceo.png?raw=true))
 
 ## Zach’s key takeaways: 
 Here are my notes and thoughts form the discussion. You can watch and listen to the recording [here](https://get.ada.cx/chatgpt-webinar?hsCtaTracking=customerexperiencehandbook.com): 
 - AI is a multiplier. It reduces some tasks from days to minutes.
 - Generative AI is actually great at the most complicated questions, not just the simple questions that deflection handles today. 
-- Read this blog post and the accompanying links: https://www.ada.cx/posts/understanding-the-business-implications-of-chatgpt-and-large-language-models-llms 
+- Read this blog post and the accompanying [links](https://www.ada.cx/posts/understanding-the-business-implications-of-chatgpt-and-large-language-models-llms) 
 - Yaniv’s Team at OpenAI is actively using GPT-3 in their own support, which is pretty cool. He said that when then went from roughly zero to 5m users in a week, they couldn’t have scaled without this 
 - Generative AI - It says it in the name, but I had a revelation that it is actually generating new content that didn’t exist before. This is the power that you see when you use Open AI’s chat 
     -GPT-3 is a form of [generative AI](https://chat.openai.com/)
