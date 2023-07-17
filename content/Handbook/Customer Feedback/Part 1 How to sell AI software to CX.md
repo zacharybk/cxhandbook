@@ -85,7 +85,7 @@ If you fail to properly educate buyers, then they are incapable of purchasing yo
 
 To create the future for CX it's helpful to have context on where we've been, and I use these examples to help you help us (CX). There are exceptions to these examples, and I encourage all of us to learn from these organizations. For the rest of them, here is how I've seen companies operate.
  
-#### A tight budget, even before the downturn.
+**A tight budget, even before the downturn.**
 
 The first bit of history is that most finance leaders classify CX a cost center. Said another way, putting \$1 into CX isn't expected to produce any return, whereas spending \$1 on another piece of marketing software... well you get the point. As a result, most companies and their financial leaders are actively trying to reduce their CX spend.
 
@@ -116,7 +116,7 @@ Generally, CX tools promise to increase a team's efficiency and lowers costs, wh
 We've already spoken about showing your expertise, so in [Part 2](https://customerexperiencehandbook.com/handbook/customer-feedback/part-2-how-to-sell-ai-software-to-cx/) I'll focus on using time to value as your secret weapon to fight tooling's fraught history.
 
 
-####  Working Cross-Functionally
+**Working Cross-Functionally**
 
 The teams that garner the most attention drive revenue or create the newest product that promises to drive revenue. As I outlined, CX is seen as a cost-center, so on a historical basis CX teams are marginalized inside of their companies. Customer Success is an exception to this rule when they show that they drive revenue. It's gotten so tough in this climate, that I'm afraid retention might not even be compelling enough these days for Customer Success to earn respect.
 
