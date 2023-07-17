@@ -104,7 +104,7 @@ I don't pretend to know the inner workings of Zapier nor Stripe support, but can
 
 Dangerously, most companies deliver a similar experience to Stripe, but they're not in the same dominant market position which positions them poorly against competition who delivers a better experience.   
 
-In part 2, I'll provide suggestions on how to move beyond these hurdles and turn financial leaders into promoters for your product.
+In [Part 2](https://customerexperiencehandbook.com/handbook/customer-feedback/part-2-how-to-sell-ai-software-to-cx/), I'll provide suggestions on how to move beyond these hurdles and turn financial leaders into promoters for your product.
 
 
 ## Tooling 
@@ -113,7 +113,7 @@ The second bit of history that I want to discuss is the set of tools that have b
 
 Generally, CX tools promise to increase a team's efficiency and lowers costs, which allows the CFO to sign off. I'm not here to say that all tools have missed the mark, but reports of uncapped efficiencies have been greatly exaggerated. This has made the typical CX buyer very skeptical of new tools, which generally makes selling them harder.   
 
-We've already spoken about showing your expertise, so in part 2 I'll focus on using time to value as your secret weapon to fight tooling's fraught history.
+We've already spoken about showing your expertise, so in [Part 2](https://customerexperiencehandbook.com/handbook/customer-feedback/part-2-how-to-sell-ai-software-to-cx/) I'll focus on using time to value as your secret weapon to fight tooling's fraught history.
 
 
 ####  Working Cross-Functionally
@@ -138,4 +138,4 @@ A great way to help CX organizations actively participate in a well-run process 
 ## Help us Buy Your Software!
 I've spent time describing some of the raw ingredients and thinking required to build a Generative AI product for CX teams. I covered your rationale for building the product, how to build awareness, and discussed some challenges you'll face within organizations. My hope is that one or a few of the ideas resonated with you, and that you consider incorporating them into your work.
 
-In part 2 of this post, my goal is to help you close more deals by explaining what it's like to be a buyer in a CX org and what I think SaaS companies need to do in order to close Generative AI deals.
+In [Part 2](https://customerexperiencehandbook.com/handbook/customer-feedback/part-2-how-to-sell-ai-software-to-cx/) of this post, my goal is to help you close more deals by explaining what it's like to be a buyer in a CX org and what I think SaaS companies need to do in order to close Generative AI deals.
