@@ -128,7 +128,7 @@ Let's say that your new client is introducing your tool to their team. By-in-lar
 
 As you think ahead about "Customer Success" for your company, I want you to keep in mind that it's not about maximizing retention. Retention is an outcome of creating value for your customer. A customer's success should be about continually creating value for your customers through your product, which creates retention.
 
-## Time to Build
+## It's Time to Build
 
 Since I still have your attention I know that you're committed to making or investing in the best Generative AI platform possible, and I'm rooting for you! Here's your checklist of items to consider when launching or iterating on your company. By no means do I think an early stage company can do all of these extremely well, so you might choose to lean heavily into a few areas:
 
@@ -148,7 +148,7 @@ Out of everything that I talked about, what do I consider to be the most importa
 
   
 
-# My offer to help
+## My offer to help
 
 If you're building or investing in an AI platform for CX I would love to see your product, discuss the market, and potentially see how we can work together.
 
