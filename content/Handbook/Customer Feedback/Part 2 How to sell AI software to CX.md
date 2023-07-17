@@ -15,7 +15,7 @@ tags: [AI, Startup, Founder, Investor, Generative AI, Artificial Intelligence, S
 
   
 
-Welcome back, or to, a post about selling Generative AI software to CX teams. I encourage you to check out the first part of the post, in which I talked about some key elements to have in mind when attracting CX customers. Those ideas included: 
+Welcome back, or to, a post about selling Generative AI software to CX teams. I encourage you to check out [Part 1](https://customerexperiencehandbook.com/handbook/customer-feedback/part-1-how-to-sell-ai-software-to-cx/#cx-financials-tooling-and-respect) of the post, in which I talked about some key elements to have in mind when attracting CX customers. Those ideas included: 
 - Showing off your expertise in AI and CX
 - Market education as a way to attract buyers
 - Historical context to help you sell 
