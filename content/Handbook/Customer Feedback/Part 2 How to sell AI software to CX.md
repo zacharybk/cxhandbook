@@ -1,3 +1,15 @@
+---
+title: "Part 2: How to sell AI software to Customer Experience Teams"
+date: "2023-07-10T12:00:49-05:00"
+author: "Zach Bouzan-Kaloustian"
+type: ""
+layout: ""
+description: "Help Us Buy Your Software"
+draft: false
+keywords: ""
+tags: [AI, Startup, Founder, Investor, Generative AI, Artificial Intelligence, Sales, SaaS]
+---
+
 # Part 2: How to sell AI software to Customer Experience Teams
 ## Help Us Buy Your Software
 
