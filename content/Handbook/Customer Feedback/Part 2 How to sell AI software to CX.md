@@ -1,6 +1,6 @@
 ---
 title: "Part 2: How to sell AI software to Customer Experience Teams"
-date: "2023-07-18T11:00:49-05:00"
+date: "2023-07-17T11:00:49-05:00"
 author: "Zach Bouzan-Kaloustian"
 type: ""
 layout: ""
