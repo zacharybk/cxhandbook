@@ -4,10 +4,6 @@
 
 A modern, feature-rich documentation theme built on top of **Astro Starlight** with custom components, enhanced UI, and multilingual support.
 
-
-
-
-
 ## 🚀 Step-by-Step Getting Started Guide
 
 ### Step 1: Clone and Install
@@ -33,7 +29,9 @@ Your site will be available at `http://localhost:4321`
 Configure your site settings by editing the configuration files in `src/config/`:
 
 #### Basic Site Configuration
+
 Edit `src/config/config.json`:
+
 ```json
 {
   "site": {
@@ -47,12 +45,13 @@ Edit `src/config/config.json`:
 ```
 
 #### Theme Customization
+
 Edit `src/config/theme.json`:
+
 ```json
 {
   "theme": {
-    "primary_color": "#2563eb",
-
+    "primary_color": "#2563eb"
   }
 }
 ```
@@ -67,6 +66,7 @@ touch src/content/docs/getting-started.md
 ```
 
 Add content to your file:
+
 ```markdown
 ---
 title: Getting Started
@@ -101,6 +101,7 @@ Edit `src/config/sidebar.json` to add navigation with icons:
 ```
 
 **Supported Icon Formats:**
+
 - `[seti:vite]` - Seti UI icons (vite, typescript, react, etc.)
 - `[setting]` - Settings/configuration
 - `[document]` - Documentation
@@ -126,25 +127,26 @@ import Accordion from "~/components/user-components/Accordion.astro";
   <NewCard title="Fast Setup" icon="rocket">
     Get started in minutes with our pre-configured setup
   </NewCard>
-  
-  <NewCard title="Custom Components" icon="document">
-    Rich set of components for beautiful documentation
-  </NewCard>
-  
+
+{" "}
+<NewCard title="Custom Components" icon="document">
+  Rich set of components for beautiful documentation
+</NewCard>
+
   <NewCard title="Multilingual" icon="setting">
     Built-in support for multiple languages
   </NewCard>
 </Grid>
 
-<Accordion 
-  question="How do I add more pages?" 
-  answer="Simply create new .md or .mdx files in the src/content/docs/ directory" 
+<Accordion
+  question="How do I add more pages?"
+  answer="Simply create new .md or .mdx files in the src/content/docs/ directory"
 />
 
-<Button 
-  label="View Full Documentation" 
-  link="/docs/components/using-components" 
-  variant="primary" 
+<Button
+  label="View Full Documentation"
+  link="/docs/components/using-components"
+  variant="primary"
 />
 ```
 
@@ -153,12 +155,14 @@ import Accordion from "~/components/user-components/Accordion.astro";
 To add Dutch (or other language) translations:
 
 1. **Create language-specific content:**
+
 ```bash
 mkdir src/content/docs/de
 touch src/content/docs/de/getting-started.md
 ```
 
 2. **Add translated content:**
+
 ```markdown
 ---
 title: Aan de slag
@@ -171,6 +175,7 @@ Je eerste documentatiepagina inhoud komt hier...
 ```
 
 3. **Configure language settings in `src/config/locals.json`:**
+
 ```json
 {
   "defaultLocale": "en",
@@ -200,7 +205,11 @@ Add custom styles to `src/styles/global.css`:
 
 /* Custom component styles */
 .custom-hero {
-  background: linear-gradient(45deg, var(--custom-primary), var(--custom-accent));
+  background: linear-gradient(
+    45deg,
+    var(--custom-primary),
+    var(--custom-accent)
+  );
 }
 ```
 
@@ -225,29 +234,30 @@ yarn preview
 
 ### Custom User Components
 
-| Component | Description | Example Usage |
-|-----------|-------------|---------------|
-| `Accordion.astro` | Collapsible Q&A sections | FAQ pages, help sections |
-| `Button.astro` | Styled buttons with variants | CTAs, navigation links |
-| `Grid.astro` | Responsive grid layouts | Organizing cards and content |
-| `ListCard.astro` | Cards with icons and counters | Feature listings, navigation |
-| `NewCard.astro` | Modern gradient cards | Showcasing features |
+| Component         | Description                   | Example Usage                |
+| ----------------- | ----------------------------- | ---------------------------- |
+| `Accordion.astro` | Collapsible Q&A sections      | FAQ pages, help sections     |
+| `Button.astro`    | Styled buttons with variants  | CTAs, navigation links       |
+| `Grid.astro`      | Responsive grid layouts       | Organizing cards and content |
+| `ListCard.astro`  | Cards with icons and counters | Feature listings, navigation |
+| `NewCard.astro`   | Modern gradient cards         | Showcasing features          |
 
 ### Enhanced Starlight Overrides
 
-| Component | Enhancement |
-|-----------|-------------|
-| `Sidebar.astro` | Custom icon support with `[icon-name]` syntax |
-| `Header.astro` | Improved mobile navigation and design |
-| `Footer.astro` | Configurable footer sections |
-| `Hero.astro` | Enhanced hero styling and layout |
-| `TableOfContents.astro` | Better navigation and UX |
+| Component               | Enhancement                                   |
+| ----------------------- | --------------------------------------------- |
+| `Sidebar.astro`         | Custom icon support with `[icon-name]` syntax |
+| `Header.astro`          | Improved mobile navigation and design         |
+| `Footer.astro`          | Configurable footer sections                  |
+| `Hero.astro`            | Enhanced hero styling and layout              |
+| `TableOfContents.astro` | Better navigation and UX                      |
 
 ## 🎯 Icon Reference for Sidebar
 
 ### Use Starlight Built-in Icons in Sidebar (use `[icon-name]`)
+
 - `[seti:vite]` - Vite
-- `[seti:typescript]` - TypeScript  
+- `[seti:typescript]` - TypeScript
 - `[seti:javascript]` - JavaScript
 - `[seti:react]` - React
 - `[seti:json]` - JSON files
@@ -255,8 +265,9 @@ yarn preview
 - `[seti:npm]` - NPM/packages
 
 ### Starlight Built-in Icons
+
 - `[document]` - Documentation pages
-- `[setting]` - Settings/configuration  
+- `[setting]` - Settings/configuration
 - `[pencil]` - Editing/writing
 - `[rocket]` - Getting started/launch
 - `[github]` - GitHub integration
@@ -287,7 +298,6 @@ yarn preview
 └── package.json
 ```
 
-
 ---
 
 ## � Advanced Usage
@@ -295,6 +305,7 @@ yarn preview
 ### Creating Custom Themes
 
 1. **Modify theme configuration:**
+
 ```json
 // src/config/theme.json
 {
@@ -305,6 +316,7 @@ yarn preview
 ```
 
 2. **Add custom CSS:**
+
 ```css
 /* src/styles/global.css */
 :root {
@@ -315,6 +327,7 @@ yarn preview
 ### Working with Images
 
 1. **Add images to `src/assets/`:**
+
 ```
 src/assets/
 ├── logo.svg
@@ -324,19 +337,18 @@ src/assets/
 ```
 
 2. **Reference in markdown:**
+
 ```markdown
 ![Alt text](../../../../assets/overview.png)
 ```
-
-
 
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `yarn install`             | Installs dependencies                            |
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `yarn install`         | Installs dependencies                            |
 | `yarn dev`             | Starts local dev server at `localhost:4321`      |
 | `yarn build`           | Build your production site to `./dist/`          |
 | `yarn preview`         | Preview your build locally, before deploying     |
