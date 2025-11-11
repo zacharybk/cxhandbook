@@ -3,27 +3,27 @@
     {
       "label": "Getting Started",
       "translations": {
-        "de": "Erste Schritte"
+        "fr": "Commencer"
       },
       "items": [
         {
           "label": "[seti:vite] Introduction",
           "translations": {
-            "de": "[seti:vite] Introductie"
+            "fr": "[seti:vite] Introduction"
           },
           "autogenerate": { "directory": "getting-started/introduction" }
         },
         {
           "label": "[setting] Global Settings",
           "translations": {
-            "de": "[setting] Globale instellingen"
+            "fr": "[setting] Paramètres globaux"
           },
           "autogenerate": { "directory": "getting-started/global-settings" }
         },
         {
           "label": "[seti:plan] Navigation",
           "translations": {
-            "de": "[seti:plan] Navigatie"
+            "fr": "[seti:plan] Navigation"
           },
           "slug": "getting-started/navigation"
         }
@@ -32,20 +32,20 @@
     {
       "label": "Content",
       "translations": {
-        "de": "Inhoud"
+        "fr": "Contenu"
       },
       "items": [
         {
           "label": "[document] Components and Block",
           "translations": {
-            "de": "[document] Componenten en blokken"
+            "fr": "[document] Composants et blocs"
           },
           "autogenerate": { "directory": "contents/components" }
         },
         {
           "label": "[pencil] Editing Content",
           "translations": {
-            "de": "[pencil] Content bewerken"
+            "fr": "[pencil] Édition du contenu"
           },
           "autogenerate": { "directory": "contents/editing" }
         }
@@ -54,15 +54,14 @@
     {
       "label": "Reference",
       "translations": {
-        "de": "Referentie"
+        "fr": "Référence"
       },
       "autogenerate": { "directory": "reference" }
     },
-
     {
       "label": "Configurations",
       "translations": {
-        "de": "Configuraties"
+        "fr": "Configurations"
       },
       "autogenerate": { "directory": "configurations" }
     }

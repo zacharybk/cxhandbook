@@ -15,7 +15,7 @@ const { hasSidebar } = Astro.locals.starlightRoute;
         <ImageMod
           src="/src/assets/hero-bg-light.png"
           alt="Hero Background Light"
-          class="dark:hidden w-full h-full"
+          class="dark:hidden w-full h-full object-cover"
           width={1920}
           height={856}
           loading="eager"
@@ -24,7 +24,7 @@ const { hasSidebar } = Astro.locals.starlightRoute;
         <ImageMod
           src="/src/assets/hero-bg-dark.png"
           alt="Hero Background Dark"
-          class="hidden dark:block w-full h-full"
+          class="hidden dark:block w-full h-full object-cover"
           width={1920}
           height={820}
           loading="eager"

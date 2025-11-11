@@ -7,9 +7,10 @@ import { getTranslations } from "@/lib/utils/languagePerser";
 
 const locale = Astro.currentLocale;
 
-const menu = await getTranslations(locale || "en") 
+const menu = await getTranslations(locale || "en");
 
 const footer = menu.footer;
+const currentLocal = Astro.currentLocale || "en";
 ---
 
 <footer>
@@ -109,8 +110,10 @@ const footer = menu.footer;
       }
     </div>
     <div class="bottom-footer">
-      <p set:html={markdownify(config?.params?.copyright)}/>
-      <a href="/privacy-policy">{Astro.locals.t("footer.privacy", "Privacy Policy")}</a>
+      <p set:html={markdownify(config?.params?.copyright)} />
+      <a href={currentLocal + "/privacy-policy"}
+        >{Astro.locals.t("footer.privacy", "Privacy Policy")}</a
+      >
     </div>
   </div>
 </footer>
@@ -198,11 +201,11 @@ const footer = menu.footer;
       gap: 1rem;
     }
     .bottom-footer a {
-      color: var(--sl-color-text) ;
+      color: var(--sl-color-text);
       text-decoration: none;
       transition: color 0.3s ease;
     }
-   
+
     .bottom-footer a:hover {
       color: var(--color-primary);
     }

@@ -88,7 +88,7 @@ Edit `src/config/sidebar.json` to add navigation with icons:
     {
       "label": "[seti:vite] Getting Started",
       "translations": {
-        "de": "[seti:vite] Aan de slag"
+        "fr": "[seti:vite] Aan de slag"
       },
       "slug": "getting-started"
     },
@@ -184,9 +184,9 @@ Je eerste documentatiepagina inhoud komt hier...
       "label": "English",
       "lang": "en"
     },
-    "de": {
-      "label": "Nederlands",
-      "lang": "nl"
+    "fr": {
+      "label": "Français",
+      "lang": "fr"
     }
   }
 }
