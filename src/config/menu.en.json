@@ -23,15 +23,15 @@
         },
         {
           "name": "Customer Feedback",
-          "url": "/customer-feedback/customer-effort-score/"
+          "url": "/customer-feedback/"
         },
         {
           "name": "Metrics",
-          "url": "/metrics/overview/"
+          "url": "/metrics/"
         },
         {
           "name": "Blog",
-          "url": "/blog/about-zach/"
+          "url": "/blog/"
         }
       ]
     },

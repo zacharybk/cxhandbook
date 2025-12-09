@@ -43,4 +43,4 @@ The goal is to create a centralized and publicly available CX resource so that a
 
 ## Get in Touch
 
-If you would like to contribute or suggest topics, please reach out via [email](mailto:zacharybk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zacharybk).
+If you would like to contribute or suggest topics, please reach out via [LinkedIn](https://www.linkedin.com/in/zacharybk).
