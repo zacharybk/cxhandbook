@@ -1,3 +1,7 @@
+/* Hide skip link until focused */
+a.sl-skiplink {
+  @apply sr-only focus:not-sr-only focus:absolute focus:z-[9999] focus:bg-white focus:p-2 focus:text-black;
+}
 
 .no-sidebar{
   @apply py-3;
