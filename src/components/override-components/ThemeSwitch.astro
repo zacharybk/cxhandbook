@@ -89,12 +89,12 @@ const { className }: { className?: string } = Astro.props;
 
   document.addEventListener("DOMContentLoaded", () => {
     const savedTheme = localStorage.getItem("starlight-theme");
-    if (savedTheme === "light") {
-      themeSwitcher.checked = false;
-      document.documentElement.dataset.theme = "light";
-    } else {
+    if (savedTheme === "dark") {
       themeSwitcher.checked = true;
       document.documentElement.dataset.theme = "dark";
+    } else {
+      themeSwitcher.checked = false;
+      document.documentElement.dataset.theme = "light";
     }
   });
 </script>

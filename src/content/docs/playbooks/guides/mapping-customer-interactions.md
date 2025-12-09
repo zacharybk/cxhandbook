@@ -6,11 +6,12 @@ description: "Understand why you're interacting with your customers in a data-dr
 draft: false
 tags: ["Playbook", "Data Analysis", "Interactions"]
 section: "playbooks"
-order: 2
+sidebar:
+  order: 1
 ---
 
 ## Summary
-It's crucial to understand why your team is interacting with your customers because what gets measured can be improved. In this post, I will explain a method to map every customer interaction that you have to help create a [Playbook](/handbook/playbooks) which is a foundation for creating quality customer interactions.
+It's crucial to understand why your team is interacting with your customers because what gets measured can be improved. In this post, I will explain a method to map every customer interaction that you have to help create a [Playbook](/playbooks/overview/) which is a foundation for creating quality customer interactions.
 
 ## Understanding Your Data
 The first step in mapping your customer interactions is to understand why you're interacting with your customers in the first place. Are they asking questions, are there bugs, or some unknown issue? Most companies have a general idea about what drives customer interactions, but a vague sense of the statistics or depth of information hiding in your CRM.
@@ -22,7 +23,7 @@ Throughout this post, I'll link to this [Google Spredsheet](https://docs.google.
 ![Ticket Data Dump](/images/Ticketdatadump.png)
 To get a full picture of your data, I would recommend 1-3 months of data taken from different times throughout the year. This will provide you with the biggest sample and account for different cycles throughout the year/month. Another way to think about it is that you need a "good enough" sample size, which could be thousands of data points (2,000-3,000!). Do not take shortcuts here, you must dig deep to create the best understanding of your customer interactions so that you can improve your CX.
 
-If you're lucky enough to already have a great baseline understanding of your tickets, then you might be ready to jump ahead to [Step 2: Data Grouping](/handbook/playbooks/data-categorization). Before you jump ahead, finish reading what's here to make that assessment.
+If you're lucky enough to already have a great baseline understanding of your tickets, then you might be ready to jump ahead to [Step 2: Data Grouping](/playbooks/guides/data-categorization/). Before you jump ahead, finish reading what's here to make that assessment.
 
 ## Tagging Your Interactions
 

@@ -43,10 +43,10 @@ So, instead of your CX team repeatedly answering the same questions or receiving
 ## Contents of a Playbook
 Here is a proposed outline that you can follow to build a playbook for your company. I advise that you follow each step in order as well as the intent of each step because they're crucial to improving your overall CX. Of course, you will inevitably customize the contents to meet your needs, and that's ok!
 
-- **[Step 1: Mapping Customer Interactions](/handbook/playbooks/mapping-customer-interactions)**: Understand why your customers interact with your company
-- **[Step 2.0: Data Grouping](/handbook/playbooks/data-categorization)**: Specific categorization of contact reasons
-- **[Step 2.1: Data Grouping for Technical, Multi-Product Companies](/handbook/playbooks/technical-team-data-grouping)**: How to categorize contact reasons in a technical company and/or one that has multiple product lines.
-- **[Step 3: Creating Visual Workflows](/handbook/playbooks/visual-workflows)**: Visually map out your customer's journey as it relates to the topic
+- **[Step 1: Mapping Customer Interactions](/playbooks/guides/mapping-customer-interactions/)**: Understand why your customers interact with your company
+- **[Step 2.0: Data Grouping](/playbooks/guides/data-categorization/)**: Specific categorization of contact reasons
+- **[Step 2.1: Data Grouping for Technical, Multi-Product Companies](/playbooks/guides/technical-team-data-grouping/)**: How to categorize contact reasons in a technical company and/or one that has multiple product lines.
+- **[Step 3: Creating Visual Workflows](/playbooks/guides/visual-workflows/)**: Visually map out your customer's journey as it relates to the topic
 **Content that's coming soon**
 - **Data Reports Deeper**: Analyze and group the data together, link to dashboards.
 - **Macros & Canned Responses**: Content and actions that address your customer questions

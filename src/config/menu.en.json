@@ -5,94 +5,46 @@
       "url": "/"
     },
     {
-      "name": "Documentation",
-      "url": "/getting-started/introduction/overview/"
+      "name": "Playbooks",
+      "url": "/playbooks/overview/"
     },
     {
-      "name": "Reference",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Configuration",
-          "url": "/reference/configuration/"
-        },
-        {
-          "name": "Plugins Reference",
-          "url": "/reference/plugin/"
-        }
-      ]
+      "name": "Blog",
+      "url": "/blog/about-zach/"
     }
   ],
   "footer": {
-    "community": {
-      "title": "Join Our Community",
-      "links": [
-        {
-          "name": "GitHub Discussions",
-          "url": "https://github.com/themefisher/dockit/discussions"
-        },
-        {
-          "name": "Discord Community",
-          "url": "/"
-        },
-        {
-          "name": "Twitter Updates",
-          "url": "/"
-        },
-        {
-          "name": "Contributing Guide",
-          "url": "/"
-        }
-      ]
-    },
     "help_links": {
-      "title": "Helpful Links",
+      "title": "Handbook",
       "links": [
         {
-          "name": "Getting Started",
-          "url": "/"
+          "name": "Playbooks",
+          "url": "/playbooks/overview/"
         },
         {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Customer Feedback",
+          "url": "/customer-feedback/customer-effort-score/"
         },
         {
-          "name": "Terms and Conditions",
-          "url": "/terms-conditions"
+          "name": "Metrics",
+          "url": "/metrics/overview/"
         },
         {
-          "name": "About Us",
-          "url": "/about"
-        },
-        {
-          "name": "Troubleshooting",
-          "url": "/"
+          "name": "Blog",
+          "url": "/blog/about-zach/"
         }
       ]
     },
     "company": {
-      "title": "Resources",
+      "title": "About",
       "links": [
         {
-          "name": "Documentation Hub",
-          "url": "/docs/"
+          "name": "About Zach",
+          "url": "/blog/about-zach/"
         },
         {
-          "name": "Theme Gallery",
-          "url": "/"
-        },
-        {
-          "name": "Best Practices",
-          "url": "/"
-        },
-        {
-          "name": "Performance Tips",
-          "url": "/"
-        },
-        {
-          "name": "Migration Guide",
-          "url": "/"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/zacharybk"
         }
       ]
     }

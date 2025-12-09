@@ -6,12 +6,13 @@ description: "Create a visualization of your customer interactions and find plac
 draft: false
 tags: ["Playbook", "Data Analysis", "Interactions"]
 section: "playbooks"
-order: 5
+sidebar:
+  order: 4
 ---
 
 ## Summary
 
-By creating a visualization of your workflows you can find optimizations, make process improvements, and highlight the stages of your customer's experience. In this post I will explain a few methods on how to visualize both the work of your CX team and the customer journey as part of creating your overall [Playbooks](/handbook/playbooks).
+By creating a visualization of your workflows you can find optimizations, make process improvements, and highlight the stages of your customer's experience. In this post I will explain a few methods on how to visualize both the work of your CX team and the customer journey as part of creating your overall [Playbooks](/playbooks/overview/).
 
 ## Process Visualization
 

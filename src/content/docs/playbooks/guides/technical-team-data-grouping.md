@@ -6,12 +6,13 @@ description: "How to group your data if you have multiple, technical products"
 draft: false
 tags: ["Playbook", "Data Analysis", "Interactions"]
 section: "playbooks"
-order: 4
+sidebar:
+  order: 3
 ---
 
 ## Summary
 
-The decision for how to group your data is one of the most crucial steps in the [Playbook](/handbook/playbooks) process, and it's even more complicated when you have multiple technical products. This post will discuss a few ways to think about the grouping and **provide a short cautionary tale about getting it wrong.**
+The decision for how to group your data is one of the most crucial steps in the [Playbook](/playbooks/overview/) process, and it's even more complicated when you have multiple technical products. This post will discuss a few ways to think about the grouping and **provide a short cautionary tale about getting it wrong.**
 
 
 ## Methods to Group Your Data
