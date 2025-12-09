@@ -10,7 +10,7 @@
     },
     {
       "name": "Blog",
-      "url": "/blog/about-zach/"
+      "url": "/blog/"
     }
   ],
   "footer": {
@@ -43,7 +43,7 @@
           "url": "/blog/about-zach/"
         },
         {
-          "name": "LinkedIn",
+          "name": "Connect on LinkedIn",
           "url": "https://www.linkedin.com/in/zacharybk"
         }
       ]

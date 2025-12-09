@@ -16,25 +16,23 @@ hero:
       icon: external
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## What You'll Find
 
-<CardGrid stagger>
-  <Card title="Playbooks" icon="document">
-    Step-by-step guides for common CX challenges. From product launches to support workflows, these frameworks can be implemented today.
-  </Card>
-  <Card title="Customer Feedback" icon="pencil">
-    Strategies for collecting, analyzing, and acting on customer feedback. Learn how to measure Customer Effort Score.
-  </Card>
-  <Card title="Metrics" icon="seti:config">
-    Key metrics and KPIs for measuring CX success. Understand what to measure and how to improve.
-  </Card>
-  <Card title="Blog" icon="open-book">
-    Thoughts, insights, and experiences from years of building CX teams at high-growth companies.
-  </Card>
+<CardGrid>
+  <LinkCard title="Playbooks" href="/playbooks/overview/" description="Step-by-step guides for common CX challenges. From product launches to support workflows, frameworks you can implement today." />
+  <LinkCard title="Customer Feedback" href="/customer-feedback/" description="Strategies for collecting, analyzing, and acting on customer feedback. Learn how to measure Customer Effort Score." />
+  <LinkCard title="Metrics" href="/metrics/" description="Key metrics and KPIs for measuring CX success. Understand what to measure and how to improve." />
+  <LinkCard title="Blog" href="/blog/" description="Thoughts, insights, and experiences from years of building CX teams at high-growth companies." />
 </CardGrid>
 
 ## About
 
-This handbook is written by [Zach Bouzan-Kaloustian](https://www.linkedin.com/in/zacharybk), drawing from experience building and scaling customer experience teams.
+This handbook is written by [Zach Bouzan-Kaloustian](https://www.linkedin.com/in/zacharybk), a CX and Operations leader with over a decade of experience building global support organizations at high-growth companies.
+
+Currently leading customer-facing teams at Weights & Biases. Previously built and scaled CX operations at Compass and other fast-moving startups.
+
+The content here comes from real experience: hiring teams, building processes, launching products, and learning what actually works when you're supporting customers at scale. No theory—just practical frameworks you can put to use.
+
+[Learn more about Zach](/blog/about-zach/)

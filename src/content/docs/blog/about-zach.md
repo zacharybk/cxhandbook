@@ -3,7 +3,7 @@ title: "Meet Zach"
 date: 2020-01-01
 author: "Zach Bouzan-Kaloustian"
 description: "A quick bio and background on Zach Bouzan-Kaloustian"
-draft: true
+draft: false
 tags: ["Personal"]
 ---
 ## Quick Bio
